@@ -1,7 +1,7 @@
 ## INSTALAR EN UBUNTUI 18.04 UN APACHE 
 
 ### INTRODUCCION APACHE SERVER 
-###para instalar apache
+### comandos para instalar apache
 $ SUDO APT INSTALL APACHE2
 
 SUDO FUSER -VKI /VAR/LIBDPKG/LOCK
