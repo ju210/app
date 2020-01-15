@@ -11,4 +11,5 @@ sudo systemctl apache2 start
 
  curl 
  hostname -i
- 
+ ----------------------------
+ sudo host nano
